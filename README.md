@@ -1,2 +1,3 @@
 # counter_project
-Increases decreases and resets counter by clicking the buttons available
+Increases decreases and resets counter by clicking the buttons available.
+JS project
